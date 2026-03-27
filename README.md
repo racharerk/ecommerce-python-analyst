@@ -1,30 +1,39 @@
-# ecommerce-python-analyst
+# ecommerce-data-analysis-python
 E-commerce data analysis using Python (Pandas, Matplotlib)
+
 # 📊 E-commerce Data Analysis (Python)
+## Data Loading
+## Data Cleaning
+## Analysis
+## Visualization
+## Conclusion
 
-## 📌 Project Overview
-This project analyzes e-commerce data to understand customer behavior, top cities, and revenue.
+## 📌 Overview
+This project analyzes e-commerce data to uncover customer behavior, top-performing cities, and overall revenue trends.
 
-## 🛠 Tools Used
+## 🛠 Tools & Technologies
 - Python
 - Pandas
 - Matplotlib
 
-## 📊 Key Analysis
+## 📊 Key Insights
 
-### 1. Top Cities by Orders
-- Sao Paulo has the highest number of orders
+### 🏙 Top Cities
+- Sao Paulo dominates with the highest number of orders
+- Major cities contribute most of the revenue
 
-### 2. Repeat Customers
-- Some customers made multiple purchases
+### 🔁 Repeat Customers
+- A portion of customers make repeat purchases
+- Indicates potential for customer retention strategies
 
-### 3. Total Revenue
-- Calculated using payment data
+### 💰 Revenue
+- Total revenue calculated from payment data
+- Revenue is concentrated among frequent buyers
 
 ## 📈 Visualization
-- Bar chart of top 10 cities by number of orders
+- Bar chart showing Top 10 cities by number of orders
 
-## 📁 Files
+## 📁 Project Structure
 - [ecommerce_analyst.ipynb](https://github.com/user-attachments/files/26309486/ecommerce_analyst.ipynb)
 : Main analysis notebook
 
